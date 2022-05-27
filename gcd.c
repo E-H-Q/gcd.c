@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int gcd(int, int); // forwarding recursion magick
+int gcd(int, int); // forwarding recursion
 
 int main(int argc, char *argv[]) {
 	if (argc - 1 != 2) {
